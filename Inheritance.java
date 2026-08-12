@@ -10,6 +10,7 @@ class Account{
     {
         System.out.println("Account Holder Name:  "+ accHolder);
         System.out.println("Account Number     :  "+ accNumber);
+        System.out.println();
     }
 }
 class SavingsAccount extends Account{
@@ -21,6 +22,7 @@ class SavingsAccount extends Account{
     void displaySavings()
     {
         System.out.println("Account Type: SAVINGS");
+        System.out.println();
     }
 }
 
@@ -32,6 +34,8 @@ class CurrentAccount extends Account{
     void displayCurrent()
     {
         System.out.println("Account Type: CURRENT");
+        System.out.println();
+        
     }
 }
 
@@ -44,6 +48,7 @@ class PremiumSavingsAccount extends SavingsAccount{
     void displayPremium()
     {
         System.out.println("Account Type : PREMIUM SAVINGS");
+        System.out.println();
     }
 }
 public class Inheritance
@@ -51,7 +56,7 @@ public class Inheritance
     public static void main(String[] args) {
         SavingsAccount s1 = new SavingsAccount("Sudharsan","100000001");
         CurrentAccount c1 = new CurrentAccount("Surya","100000008");
-        PremiumSavingsAccount p1 = new PremiumSavingsAccount("Sudharsan","100000001");
+        PremiumSavingsAccount p1 = new PremiumSavingsAccount("Devadas","100000002");
         s1.displaySavings();
         s1.displayDetails();
         c1.displayCurrent();
