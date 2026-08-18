@@ -21,7 +21,7 @@ class Book
         System.out.println("Author: "+ author);
         System.out.println("Category: "+ category);
         System.out.println("Price: Rs."+ price);
-        System.err.println();
+        System.out.println();
     }
 }
 public class Library

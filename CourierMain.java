@@ -37,7 +37,7 @@ class Courier
         else if (parcelWeight > 5)
             charge = parcelWeight*150;
         else
-            charge = 100;
+            charge = parcelWeight*100;
         courierCharge = charge + addInsuranceCharge();
         return courierCharge;
     }
