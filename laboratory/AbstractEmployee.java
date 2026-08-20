@@ -1,3 +1,4 @@
+//Experiment 2
 abstract class Employee
 {
     static String companyName = "ABC Company";
