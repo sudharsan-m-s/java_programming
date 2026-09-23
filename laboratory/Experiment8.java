@@ -1,6 +1,5 @@
 // Experiment 8
 
-
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
