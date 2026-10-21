@@ -27,7 +27,7 @@ class UserThread extends Thread {
     }
 }
 
-public class Experiment11 {
+public class EXPERIMENT11 {
     public static void main(String[] args)
             throws InterruptedException {
         Printer p = new Printer();

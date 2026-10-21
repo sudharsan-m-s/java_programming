@@ -52,7 +52,7 @@ class PremiumSavingsAccount extends SavingsAccount{
         System.out.println();
     }
 }
-public class Inheritance{
+public class EXPERIMENT4{
     public static void main(String[] args) {
         SavingsAccount s1 = new SavingsAccount("Sudharsan","100000001");
         CurrentAccount c1 = new CurrentAccount("Surya","100000008");

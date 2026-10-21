@@ -25,7 +25,8 @@ class UPIPayment extends Payment{
     }
 }
 
-public class Polymorphism{
+public class EXPERIMENT5
+{
     public static void main(String[] args) {
         UPIPayment u = new UPIPayment();
         u.makePayment(300.56);

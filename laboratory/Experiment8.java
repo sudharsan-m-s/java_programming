@@ -29,7 +29,7 @@ class BankAccount
     }
 }
 
-public class Experiment8
+public class EXPERIMENT8
 {
     public static void main(String[] args) {
         

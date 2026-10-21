@@ -16,7 +16,7 @@ class Student{
         this.percentage = p;
     }
 }
-public class StudentMain 
+public class EXPERIMENT3
 {
     public static void main(String[] a)
     {

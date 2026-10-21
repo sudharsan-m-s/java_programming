@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Experiment12 {
+public class EXPERIMENT12 {
     public static void main(String[] args) {
         List<String> students = new ArrayList<>();
         students.add("Arun");

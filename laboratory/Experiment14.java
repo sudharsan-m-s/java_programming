@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class Experiment14 {
+public class EXPERIMENT14 {
     public static void main(String[] args) {
         try {
             FileWriter fw = new FileWriter("student.txt");

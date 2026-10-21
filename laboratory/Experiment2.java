@@ -46,7 +46,7 @@ class Developer extends Employee {
     }
 }
 
-public class AbstractEmployee
+public class EXPERIMENT2
 {
     public static void main(String[] args) {
         Developer emp = new Developer("IT",50000,"Developer","Chennai");

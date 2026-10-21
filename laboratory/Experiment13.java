@@ -24,7 +24,7 @@ class NameComparator implements Comparator<Student> {
     }
 }
 
-public class Experiment13 {
+public class EXPERIMENT13 {
     public static void main(String[] args) {
         List<Student> list = new ArrayList<>();
 

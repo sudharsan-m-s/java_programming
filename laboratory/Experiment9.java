@@ -32,7 +32,7 @@ class StatusThread implements Runnable
     }
 }
 
-public class Experiment9
+public class EXPERIMENT9
 {
     public static void main(String[] args) {
         ReservationThread r = new ReservationThread();

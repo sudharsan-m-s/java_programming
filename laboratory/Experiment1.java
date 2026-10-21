@@ -25,7 +25,7 @@ class Book
         System.out.println();
     }
 }
-public class Library
+public class EXPERIMENT1
 {
     public static void main(String[] args) {
         Book b1 = new Book(301,"Harry Potter","J K Rowling","Fiction",450);

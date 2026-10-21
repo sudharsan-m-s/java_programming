@@ -58,7 +58,7 @@ class Consumer extends Thread {
     }
 }
 
-public class Experiment10 {
+public class EXPERIMENT10 {
     public static void main(String[] args)
             throws InterruptedException {
 

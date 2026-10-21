@@ -18,7 +18,7 @@ class Student implements Serializable {
     }
 }
 
-public class Experiment15 {
+public class EXPERIMENT15 {
     public static void main(String[] args) {
         try {
             Student s = new Student(101, "Arun", 9.2);

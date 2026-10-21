@@ -29,7 +29,7 @@ class SmartTV extends Appliance implements RemoteControl
     }
 }
 
-public class InterfacesMain {
+public class EXPERIMENT6 {
     public static void main(String[] args) {
 
         // Dynamic Method Dispatch
